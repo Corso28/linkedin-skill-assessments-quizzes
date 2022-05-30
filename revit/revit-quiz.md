@@ -4,14 +4,14 @@
 
 #### Q1. What is it called when a tag with a leader has a drag control where the leader touches the element?
 
-- [ ] Attached End
+- [X] Attached End
 - [ ] Preferences > Reviewing
 - [ ] Preferences > Reading
 - [ ] Preferences > Commenting
 
 #### Q2. A designer would like to create a new parameter in a schedule that contains a mathematical expression combining two existing fields. What is the process?
 
-- [ ] `Edit Fields > Combined Parameter`
+- [X] `Edit Fields > Combined Parameter`
 - [ ] `Sorting/Grouping > Grand Totals`
 - [ ] `Formatting > Field Formatting > Calculate Totals`
 - [ ] `Edit Fields > Calculated Parameter`
@@ -19,13 +19,12 @@
 #### Q3. Where can you find a drop-down list of available named reference planes?
 
 - [ ] in the **Properties** palette
-- [ ] in the Project Browser
-- [ ] on the Options Bar
+- [X] on the Options Bar
 - [ ] in the **Set Work Plane** dialog box
 
 #### Q4. Some Revit families require a host element to be placed. Which choice is a hosted element?
 
-- [ ] door
+- [X] door
 - [ ] floor
 - [ ] furniture
 - [ ] wall
@@ -34,13 +33,12 @@
 
 - [ ] section view
 - [ ] elevation view
-- [ ] 3D view
-- [ ] plan view
+- [X] 3D view
 
 #### Q6. In a model whose units are configured in feet, what would you type to get a liner object to be 100 millimeters long?
 
 - [ ] 100'
-- [ ] 100/25.4
+- [X] 100/25.4
 - [ ] 100mm
 - [ ] 100m
 
@@ -55,7 +53,7 @@
 
 - [ ] Slope arrow
 - [ ] Extend to wall core
-- [ ] Defines slope
+- [X] Defines slope
 - [ ] Overhang
 
 #### Q9. When importing a CAD drawing into a drafting view, how do you remove layers that you do not need?
@@ -88,7 +86,7 @@
 
 #### Q13. What items stay the same size no matter the scale of the view?
 
-- [ ] line weights
+- [X] line weights
 - [ ] annotative components with text
 - [ ] model surface patterns
 - [ ] hosted components
